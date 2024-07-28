@@ -1,0 +1,105 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492616187373@s.whatsapp.net',
+    fromMe: false,
+    id: '0D663FE386F09EB1B1',
+    participant: undefined
+  },
+  messageTimestamp: 1722153361,
+  pushName: 'Nico Alvarez',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage { text: 'hola', contextInfo: [ContextInfo] },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'hola',
+  from: '5492616187373'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_027b045f-694d-4efd-a775-fcc928470383',
+  keyword: 'key_c5c4cda8-2c58-440c-85fc-a582bd6d2498',
+  answer: '🙌 Hola bienvenido a *Energix Eats*',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '77fbf7dc9f306fafa980df023254d5c7'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_6595502f-983f-4a60-ac34-5e5029ef7de3',
+  keyword: 'ans_027b045f-694d-4efd-a775-fcc928470383',
+  answer: 'te comparto los siguientes links de interes sobre el proyecto\n' +
+    '👉 *doc* para ver la documentación\n' +
+    '👉 *gracias*  para ver la lista de videos\n' +
+    '👉 *discord* unirte al discord',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object]
+    ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'c5caa03cc55085b8dfff980b775ae3f6'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492616187373@s.whatsapp.net',
+    fromMe: false,
+    id: '173CD790ADB09803B1',
+    participant: undefined
+  },
+  messageTimestamp: 1722153371,
+  pushName: 'Nico Alvarez',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage { text: 'precio', contextInfo: [ContextInfo] },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'precio',
+  from: '5492616187373'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_611b8a11-4613-49b6-aee2-3223b1bc0148',
+  keyword: 'key_4853855d-c67c-4ab7-8e9b-1d551e591c8c',
+  answer: 'Bienvenido a *Energix Eats*, aqui tienes los enlaces de interés linktr.ee/energixeat\n' +
+    '\n' +
+    '*2* Para siguiente paso.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '281ae4f6fd378709d6127921d7fb6bd0'
+}
